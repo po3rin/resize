@@ -1,4 +1,4 @@
-package redize
+package resize
 
 import (
 	"image"
